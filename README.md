@@ -23,6 +23,11 @@ A curated collection of beginner to advanced **Machine Learning projects** with 
 - Uses synthetic/randomly generated data.
 - Simple linear regression model deployed using **Streamlit**.
 
+#### 📄 Project 3: Resume Classifier
+- Classifies resumes into job roles like Data Scientist, Web Developer, etc.
+- Using NLP and machine learning.
+- Deployed with Streamlit for easy testing and available on Hugging Face Spaces.
+
 ---
 
 ### 🛠️ Tech Stack
